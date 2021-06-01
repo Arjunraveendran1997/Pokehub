@@ -1,0 +1,20 @@
+body{
+    background-color:rgb(12, 4, 80);
+    color: blanchedalmond;
+}
+
+.app{
+    text-align: center;
+
+}
+
+h1{
+    font-size: 57px;
+    font-family: "Press Start 2P",cursive;
+}
+
+@media (max-width:500px){
+    h1{
+        font-size: 40px;
+    }
+}

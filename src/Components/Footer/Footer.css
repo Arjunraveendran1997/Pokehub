@@ -1,0 +1,28 @@
+.footer{
+    
+    margin-top: 50px;
+   
+}
+
+.footer-link{
+    font-family: "Press Start 2p", cursive;
+    color: blanchedalmond;
+    font-size: 14px;
+    text-decoration: none;
+}
+.arjun-ravi{
+    color: chocolate;
+}
+.creator{
+    color: #f6d743;
+}
+
+@media (max-width:500px){
+    .footer{
+        margin-top: 30px;
+
+    }
+    .footer-link{
+        font-size: 10px;
+    }
+}
